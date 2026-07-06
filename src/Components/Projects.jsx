@@ -4,7 +4,7 @@ import BookNest from '../assets/BookNest.jpg'
 import AI from '../assets/AI.png'
 import Food from '../assets/Food.jpg'
 import Portfolio from '../assets/Portfolio.png'
-import Weather from '../assets/Weather.JPG'
+import Weather from '../assets/Weather.jpg'
 import ToDo from '../assets/ToDo.jpg'
 import AOS from 'aos'
 import 'aos/dist/aos.css';
