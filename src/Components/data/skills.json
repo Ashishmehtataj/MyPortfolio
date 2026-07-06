@@ -1,0 +1,98 @@
+[
+    {
+        "title":"HTML5",
+        "imageSrc":"HTML5.png"
+    },
+    {
+        "title":"CSS5",
+        "imageSrc":"CSS3.png"
+    },
+    {
+        "title":"JavaScript",
+        "imageSrc":"JS.png"
+    },
+    {
+        "title":"ReactJs",
+        "imageSrc":"React.png"
+    },
+    {
+        "title":"Redux Toolkit",
+        "imageSrc":"Redux.png"
+    },
+    {
+        "title":"Tailwind CSS",
+        "imageSrc":"Tailwind.png"
+    },
+    {
+        "title":"Bootstrap",
+        "imageSrc":"Bootstrap.png"
+    },
+    {
+        "title":"Material UI",
+        "imageSrc":"MUI.png"
+    },
+    {
+        "title":"DaisyUI",
+        "imageSrc":"DUI.png"
+    },
+    {
+        "title":"NodeJs",
+        "imageSrc":"NodeJS.png"
+    },
+    {
+        "title":"ExpressJs",
+        "imageSrc":"ExpressJS.png"
+    },
+    {
+        "title":"MongoDB",
+        "imageSrc":"MongoDB.png"
+    },
+    {
+        "title":"Mongoose",
+        "imageSrc":"Mongoose.png"
+    },
+    {
+        "title":"Git",
+        "imageSrc":"Git.png"
+    },
+    {
+        "title":"GitHub",
+        "imageSrc":"GitHub.png"
+    },
+    {
+        "title":"Axios",
+        "imageSrc":"Axios.png"
+    },
+    {
+        "title":"Vercel",
+        "imageSrc":"Vercel.png"
+    },
+    {
+        "title":"Netlify",
+        "imageSrc":"Netlify.png"
+    },
+    {
+        "title":"Render",
+        "imageSrc":"Render.png"
+    },
+    {
+        "title":"Cypress",
+        "imageSrc":"Cypress.png"
+    },
+    {
+        "title":"C Programming Language",
+        "imageSrc":"C.png"
+    },
+    {
+        "title":"C++ Programming Language",
+        "imageSrc":"C++.png"
+    },
+    {
+        "title":"Java Programming Language",
+        "imageSrc":"java.png"
+    },
+    {
+        "title":"Python Programming Language",
+        "imageSrc":"Python.png"
+    }
+]

@@ -1,0 +1,8 @@
+@import "tailwindcss";
+*{
+    scroll-behavior: smooth;
+}
+
+.shadow-yellow {
+  box-shadow: 0 4px 15px yellow;
+}
