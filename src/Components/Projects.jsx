@@ -30,7 +30,7 @@ const Projects = () => {
                     Demo={"https://food-recipe-sand-pi.vercel.app/"}
                     Source={"https://github.com/Ashishmehtataj/Food-Recipe"} />
                 <Projectsdata title="Portfolio" main="React.js + Tailwind CSS portfolio showcasing skills and projects in a  responsive design. Clean UI, smooth navigation, and layouts highlighting creativity and expertise. Deploy on Vercel."
-                    Demo={"https://my-portfolio-rho-blush-25.vercel.app/"}
+                    Demo={"https://ashishmehta-uz39-six.vercel.app/"}
                     Source={"https://github.com/Ashishmehtataj/My_Portfolio"}
                     image={Portfolio}
                 />
